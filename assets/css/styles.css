@@ -153,6 +153,9 @@ img{
 .home__title{
   display: none;
 }
+  .mypic{
+    display:none;
+  }
 
 }
 .nav__item{
